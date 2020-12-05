@@ -1,0 +1,13 @@
+hello dharma makkena 
+git init
+-----------
+git config --global
+git config --list
+touch filename
+git status
+git add filename
+git commit -m "label"
+git log 
+git show cid
+git push
+
