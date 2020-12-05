@@ -1,0 +1,9 @@
+git init
+-----------
+git config --global
+git config --list
+touch filename
+git status
+git add filename
+git commit -m "label"
+git push
